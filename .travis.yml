@@ -1,0 +1,13 @@
+language: node_js
+before_script: [
+    "npm i"
+  ]
+node_js:
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+notifications:
+  email: false
+script: npm test
+os: "linux"
