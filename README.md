@@ -8,6 +8,10 @@
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 
+--------------------------
+UNDER CONSTRUCTION
+--------------------------
+
 # strip-code-loader
 
 A webkit loader to remove parts of code based on regular expressions.
